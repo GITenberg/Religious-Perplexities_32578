@@ -1,0 +1,29 @@
+_repo: Religious-Perplexities_32578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacks, L. P. (Lawrence Pearsall)
+    alias: Jacks, Lawrence Pearsall
+    birthdate: 1860
+    deathdate: 1955
+    gutenberg_agent_id: '35188'
+    url: http://www.gutenberg.org/2009/agents/35188
+    wikipedia: http://en.wikipedia.org/wiki/L._P._Jacks
+description: ''
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apologetics'
+- !lcc 'BR'
+- !lcsh 'Psychology, Religious'
+title: Religious Perplexities
+url: http://www.gutenberg.org/ebooks/32578
